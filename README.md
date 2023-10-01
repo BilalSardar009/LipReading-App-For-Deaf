@@ -11,4 +11,8 @@ API Endpoint: https://huggingface.co/spaces/BilalSardar/Video_LipReading
 Developers can access this API to integrate lip reading capabilities into their own applications.
 
 ## Demo 
-(Lipread[1].mp4)
+
+
+
+https://github.com/BilalSardar009/LipReading-App-For-Deaf/assets/94189448/e6120ae4-eaca-4219-9519-c9ab316fce2d
+
