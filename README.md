@@ -1,6 +1,6 @@
 # LipReading-App-For-Deaf
 
-![LipRead App Logo](app_logo.png)
+![LipRead App Logo]([app_logo.png](https://github.com/BilalSardar009/LipReading-App-For-Deaf/blob/main/src/main/res/drawable/logo.png))
 
 ## Overview
 
