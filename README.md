@@ -1,5 +1,4 @@
 # LipReading-App-For-Deaf
-![LipRead App Logo]([https://github.com/BilalSardar009/Image-White-Balancing/blob/main/White%20Balancing/lake.png](https://github.com/BilalSardar009/LipReading-App-For-Deaf/blob/main/src/main/res/drawable/logo.png))
 
 ## Overview
 
